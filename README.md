@@ -28,6 +28,7 @@ This project was mainly made for learning the following skills:
 
 ## Preview
  <img src='https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTFmcjNrd2N0cWU3dDZ5bzQwd3VwNXhlMDd1aTlrNmt5ZzQ4ajJ6bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aaCvsVB38yZ4kuSjSm/giphy.gif' />
+
 ## Requirements 
 - C++17 or higher
 - SFML library
